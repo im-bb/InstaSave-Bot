@@ -1,5 +1,5 @@
-# Instagram Manager Bot
-The most advanced Instagram Downloader Bot.
+# 𝗜𝗡𝗦𝗧𝗔𝗚𝗥𝗔𝗠 𝗠𝗔𝗡𝗔𝗚𝗘𝗥 𝗕𝗢𝗧
+𝖳𝗁𝖾 𝗆𝗈𝗌𝗍 𝖺𝖽𝗏𝖺𝗇𝖼𝖾𝖽 𝖨𝗇𝗌𝗍𝖺𝗀𝗋𝖺𝗆 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽𝖾𝗋 𝖡𝗈𝗍.
 
 <p align="center">
   <img src="https://sm.ign.com/ign_in/screenshot/default/ig-glyph001-74am_dp6a.jpg" alt="Instagram"/>
@@ -12,11 +12,9 @@ Made with Python3
 Copyright permission under MIT License
 License -> https://github.com/subinps/Instagram-Bot/blob/main/LICENSE
 ```
+𝖸𝗈𝗎 𝖼𝖺𝗇 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖺𝗅𝗆𝗈𝗌𝗍 𝖺𝗇𝗒𝗍𝗁𝗂𝗇𝗀 𝖥𝗋𝗈𝗆 𝗒𝗈𝗎𝗋 𝖨𝗇𝗌𝗍𝖺𝗀𝗋𝖺𝗆 𝖠𝖼𝖼𝗈𝗎𝗇𝗍.
 
-
-You can Download almost anything From your Instagram Account.
-
-**What Can Be Downloaded?:**
+**𝗪𝗛𝗔𝗧 𝗖𝗔𝗡 𝗕𝗘 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗗?**
 ```
     1. All posts of any Profile. (Both Public and Private,for private profiles you need to be a follower.)
     2. All Posts from your feed.
@@ -34,7 +32,7 @@ You can Download almost anything From your Instagram Account.
 
 ```
 
-**Available Commands and Usage**
+**𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 𝗔𝗡𝗗 𝗨𝗦𝗔𝗚𝗘**
 ```
 /start - Check wheather bot alive.
 /restart - Restart the bot (If you messed up anything use /restart.)
@@ -73,7 +71,7 @@ Example: /followers samantharuthprabhuoffl
 
 ```
 
-### Deploy to Heroku
+### 𝗘𝗔𝗦𝗬 𝗪𝗔𝗬
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/im-bb/InstaSave-Bot)
 
 Watch This [Video](https://youtu.be/aVkmoVPSOYI) Tutorial For Better Understanding.
@@ -83,7 +81,7 @@ While Deploying fill `INSTA_SESSIONFILE_ID`, either by running [generate_instagr
 For Generating Session after deployment, You Must leave the Variable as blank and fill manually after generating `INSTA_SESSIONFILE_ID` from your bot by sending /login.
 
 
-### Deploy to VPS
+### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗩𝗣𝗦
 
 ```sh
 git clone https://github.com/subinps/Instagram-Bot
@@ -93,7 +91,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
-### Variables
+### 𝗩𝗔𝗥𝗜𝗔𝗕𝗟𝗘𝗦
 
 * `API_HASH` API Hash from [my.telegram.org](https://my.telegram.org/)
 * `API_ID` API ID from [my.telegram.org](https://my.telegram.org/)
@@ -103,7 +101,7 @@ python3 main.py
 * `INSTA_SESSIONFILE_ID` Your Instagram session file ID. Generate either by running [generate_instagram_session.py](https://github.com/subinps/Instagram-Bot/blob/main/generate_instagram_session.py]) in terminal or using /login after deploy or use [repl.it](https://replit.com/@subinps/generateInstagramSession)
 
 
-### Note
+#### 𝗇𝗈𝗍𝖾
 
 ```
 Contributions are welcomed, But Kanging and editing a few lines wont make you a Developer.
@@ -111,13 +109,13 @@ Fork the repo, Do not Import code.
 
 ```
 
-#### Support
+#### 𝗌𝗎𝗉𝗉𝗈𝗋𝗍 
 
 Connect Me On [Telegram](https://telegram.dog/subinps_bot)
 
 
 ```
-LEGAL DISCLAIMER
+𝗟𝗘𝗚𝗔𝗟 𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥
 
 Developer or his team won't be liable for any loss caused by MISUSE of this Script.
 This Bot is Indended to be used only for Educational Purposes.
