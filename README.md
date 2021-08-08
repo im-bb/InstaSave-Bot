@@ -1,6 +1,10 @@
 # Instagram Manager Bot
 The most advanced Instagram Downloader Bot.
 
+<p align="center">
+  <img src="https://sm.ign.com/ign_in/screenshot/default/ig-glyph001-74am_dp6a.jpg" alt="Instagram"/>
+</p>
+
 ```
 Please fork this repository don't import code
 Made with Python3
