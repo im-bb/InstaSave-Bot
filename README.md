@@ -124,4 +124,4 @@ This Bot is Indended to be used only for Educational Purposes.
 
 ```
 #### just edited a few lines for my private usage @im-bb
-all credits here [Subnips](https://telegram.dog/subinps_bot)
+#### all credits here [Subin](https://telegram.dog/subinps_bot)
