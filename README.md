@@ -123,8 +123,8 @@ Developer or his team won't be liable for any loss caused by MISUSE of this Scri
 This Bot is Indended to be used only for Educational Purposes.
 
 ```
-#### im-bb:
-*just edited a few lines for my private usage.
-#### Tricks:
-*sign-up instagram with a tempmail for the purpose.
+#### 𝗂𝗆 𝖻𝖻:
+𝗃𝗎𝗌𝗍 𝖾𝖽𝗂𝗍𝖾𝖽 𝖺 𝖿𝖾𝗐 𝗅𝗂𝗇𝖾𝗌 𝖿𝗈𝗋 𝗆𝗒 𝗉𝖾𝗋𝗌𝗈𝗇𝖺𝗅 𝗎𝗌𝖺𝗀𝖾.
+#### 𝖳𝗋𝗂𝖼𝗄𝗌:
+𝗌𝗂𝗀𝗇 𝗎𝗉 𝗐𝗂𝗍𝗁 𝗂𝗇𝗌𝗍𝖺𝗀𝗋𝖺𝗆 𝗎𝗌𝗂𝗇𝗀 𝗍𝖾𝗆𝗉𝗈𝗋𝖺𝗋𝗒 𝗆𝖺𝗂𝗅 𝖿𝗈𝗋 𝗍𝗁𝖾 𝗉𝗎𝗋𝗉𝗈𝗌𝖾.
 
