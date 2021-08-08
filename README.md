@@ -123,6 +123,6 @@ Developer or his team won't be liable for any loss caused by MISUSE of this Scri
 This Bot is Indended to be used only for Educational Purposes.
 
 ```
-#### im-bb;
+#### im-bb:
 just edited a few lines for my private usage.
 
