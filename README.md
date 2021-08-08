@@ -124,5 +124,7 @@ This Bot is Indended to be used only for Educational Purposes.
 
 ```
 #### im-bb:
-just edited a few lines for my private usage.
+*just edited a few lines for my private usage.
+#### Tricks:
+*sign-up instagram with tempmail for the purpose.
 
