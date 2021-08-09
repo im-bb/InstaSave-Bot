@@ -2,7 +2,7 @@
 𝖳𝗁𝖾 𝗆𝗈𝗌𝗍 𝖺𝖽𝗏𝖺𝗇𝖼𝖾𝖽 𝖨𝗇𝗌𝗍𝖺𝗀𝗋𝖺𝗆 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽𝖾𝗋 𝖡𝗈𝗍.
 
 <p align="center">
-  <img src="https://sm.ign.com/ign_in/screenshot/default/ig-glyph001-74am_dp6a.jpg" alt="Instagram"/>
+  <img src="https://telegra.ph/file/4ef2cfe21ea9b8461a7d4.jpg" alt="Instagram"/>
 </p>
 
 ```
